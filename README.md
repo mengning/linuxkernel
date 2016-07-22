@@ -1,5 +1,7 @@
 # 庖丁解牛Linux内核
 
+[Linux内核分析MOOC课程](http://mooc.study.163.com/course/USTC-1000029000) 配套教材编写计划，欢迎有兴趣的童鞋提交pull requests
+
 - 封面
 - 学员/读者评价精选
 - 前言
