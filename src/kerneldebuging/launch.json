@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "(gdb) linux",
+        "type": "cppdbg",
+        "request": "launch",
+        "preLaunchTask": "vm",
+        "program": "${workspaceRoot}/vmlinux",
+        "miDebuggerServerAddress": "localhost:1234",
+        "args": [],
+        "stopAtEntry": true,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "miDebuggerArgs": "-n",
+        "targetArchitecture": "x64",
+        "setupCommands": [
+          {
+            "text": "set arch i386:x86-64:intel",
+            "ignoreFailures": false
+          },
+          {
+            "text": "dir .",
+            "ignoreFailures": false
+          },
+          {
+            "text": "add-auto-load-safe-path ./",
+            "ignoreFailures": false
+          },
+          {
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ]
+      }
+    ]
+  }
