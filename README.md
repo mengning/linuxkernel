@@ -9,5 +9,5 @@
 - [庖丁解牛Linux网络核心](https://blog.51cto.com/cloumn/detail/32)
 - https://www.shiyanlou.com/courses/195
 
-## Contact us with Wechat（微信）
+## Contact us
 <img src="https://user-images.githubusercontent.com/609053/81026703-8c25df00-8ead-11ea-8254-29830c3e1146.png" alt="微信公众号互动二维码" width="100" align="bottom" />
