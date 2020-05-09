@@ -1,5 +1,6 @@
 # time as a systemcall example
 
+* 编译
 ```
 gcc -o time-asm time-asm.c
 gcc -o time time.c
@@ -8,7 +9,7 @@ sudo apt-get install gcc-multilib
 gcc -o time time.c -m32
 ```
 
-* 
+* 反汇编
 ```
 gcc -o time time.c -static
 objdump -S time > time64.S
