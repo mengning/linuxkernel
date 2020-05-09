@@ -6,7 +6,7 @@
       {
         "label": "vm",
         "type": "shell",
-        "command": "qemu-system-x86_64 -kernel ${workspaceFolder}/arch/x86/boot/bzImage -initrd ../rootfs.cpio.gz -S -s -nographic -append \"console=ttyS0\" -serial mon:stdio -device e1000,netdev=net0 -netdev user,id=net0,hostfwd=tcp::5555-:22",
+        "command": "qemu-system-x86_64 -kernel ${workspaceFolder}/arch/x86/boot/bzImage -initrd ../rootfs.cpio.gz -S -s -nographic -append \"console=ttyS0\"",
         "presentation": {
           "echo": true,
           "clear": true,
