@@ -14,9 +14,9 @@ gcc -S -o time.s time.c
 ```
 * time.S
 ```
-gcc -S -o time.s time.c -static
+gcc -S -o time.S time.c -static
 ```
 * time32.s 
 ```
-gcc -S -o time.s time.c -m32
+gcc -S -o time32.s time.c -m32
 ```
