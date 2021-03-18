@@ -1,15 +1,17 @@
 # 《庖丁解牛Linux内核分析》二维码对应资料内容
 
-* 封面二维码：《庖丁解牛Linux内核分析》免费配套资料：在线实验环境https://www.shiyanlou.com/courses/195 收费相关资料：75折购书https://j.youzan.com/pfzVI9 Linux网络核心专栏文章http://blog.51cto.com/cloumn/detail/32 慕课视频
-http://mooc.study.163.com/course/1000072000
-*   	二维码1	：
-*   	二维码2	：
-*   	二维码3	：
-*   	二维码4	：
-*   	二维码5	：
-*   	二维码6	：
-*   	二维码7	：
-*   	二维码8	：
+* 封面二维码：《庖丁解牛Linux内核分析》免费配套资料：在线实验环境https://www.shiyanlou.com/courses/195 收费相关资料：75折购书https://j.youzan.com/pfzVI9 Linux网络核心专栏文章http://blog.51cto.com/cloumn/detail/32 慕课视频 http://mooc.study.163.com/course/1000072000
+*   	二维码1	：2013年计算机操作系统原理https://github.com/mengning/mykernel/wiki/OS2013
+*   	二维码2	：mykernel项目github主页https://github.com/mengning/mykernel 自己动手写一个操作系统内核【内含视频】
+https://mp.weixin.qq.com/s/SzpN1BNty5aPDZhNdCO5yA
+*   	二维码3	：kernel-in-kernel项目github主页https://github.com/jserv/kernel-in-kernel
+*   	二维码4	：实验楼邀请注册网址http://www.shiyanlou.com/register?inviter=NTY0MzE5MDMxOTc2
+*   	二维码5	：《庖丁解牛Linux内核分析》配套线上实验环境https://www.shiyanlou.com/courses/195
+*   	二维码6	：github网址https://github.com gitee网址https://gitee.com
+*   	二维码7	：linux-3.9.4源代码压缩包
+https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.9.4.tar.xz
+*   	二维码8	：mykernel_for_linux3.9.4sc.patch补丁文件
+https://raw.github.com/mengning/mykernel/master/mykernel_for_linux3.9.4sc.patch
 *   	二维码9	：
 *   	二维码10	：
 *   	二维码11	：
