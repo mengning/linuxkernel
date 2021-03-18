@@ -64,18 +64,43 @@ Linux内核中描述的所有的进程状态的宏定义https://github.com/torva
 *   	二维码26	：
 struct list_head数据结构https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/include/linux/types.h#L186
 *   	二维码27	：
+Linux内核第一个进程的初始化，其中的init_task即为第一个进程（0号进程）的进程描述符结构体变量，它的初始化是通过硬编码方式固定下来的，除此之外所有其他进程的初始化都是通过do_fork复制父进程的方式初始化的。
+https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/init/main.c#L510
 *   	二维码28	：
+init_task进程描述符的初始化代码
+https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/init/init_task.c#L18
 *   	二维码29	：
+INIT_TASK宏定义，0号进程的初始化https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/include/linux/init_task.h#L173
 *   	二维码30	：
+struct thread_struct数据结构https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/arch/x86/include/asm/processor.h#L468
 *   	二维码31	：
+创建进程相关的几个系统调用内核处理函数
+https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/kernel/fork.c#L1693
 *   	二维码32	：
+do_fork函数
+https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/kernel/fork.c#L1617
 *   	二维码33	：
+clone_flags：子进程创建相关标志，通过此标志可以对父进程的资源进行有选择的复制https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/include/uapi/linux/sched.h#L4
 *   	二维码34	：
+copy_process()函数
+https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/kernel/fork.c#L1174
 *   	二维码35	：
+dup_task_struct函数
+https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/kernel/fork.c#L305
 *   	二维码36	：
+thread_info结构体 https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/arch/x86/include/asm/thread_info.h#L26
 *   	二维码37	：
+thread_union联合体 https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/include/linux/sched.h#L2241
 *   	二维码38	：
+copy_thread函数代码https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/arch/x86/kernel/process_32.c#L132
 *   	二维码39	：
+目标文件一般也叫ABI（Application Binary Interface，应用程序二进制接口）
+https://en.wikipedia.org/wiki/Object_file
 *   	二维码40	：
+系统调用内核处理函数sys_execve()
+https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/fs/exec.c#L1604
 *   	二维码41	：
+连续发生故障(double fault)
+https://en.wikipedia.org/wiki/Double_fault
 *   	二维码42	：
+schedule函数https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/kernel/sched/core.c#L2860
