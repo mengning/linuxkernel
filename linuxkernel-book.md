@@ -59,3 +59,5 @@ https://en.wikipedia.org/wiki/Double_fault
 
 - 码农的自我修养之必备技能
 https://study.163.com/course/courseMain.htm?courseId=1209725814&share=2&shareId=1000001002
+- mykernel项目github主页https://github.com/mengning/mykernel 自己动手写一个操作系统内核【内含视频】
+https://mp.weixin.qq.com/s/SzpN1BNty5aPDZhNdCO5yA
