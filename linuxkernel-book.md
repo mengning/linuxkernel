@@ -104,3 +104,9 @@ https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/
 https://en.wikipedia.org/wiki/Double_fault
 *   	二维码42	：
 schedule函数https://github.com/torvalds/linux/blob/b2776bf7149bddd1f4161f14f79520f17fc1d71d/kernel/sched/core.c#L2860
+
+
+# 新版链接
+
+- 码农的自我修养之必备技能
+https://study.163.com/course/courseMain.htm?courseId=1209725814&share=2&shareId=1000001002
