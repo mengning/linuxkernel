@@ -62,3 +62,4 @@ https://study.163.com/course/courseMain.htm?courseId=1209725814&share=2&shareId=
 - mykernel项目github主页https://github.com/mengning/mykernel 自己动手写一个操作系统内核【内含视频】
 https://mp.weixin.qq.com/s/SzpN1BNty5aPDZhNdCO5yA
 - Visual Studio Code 的官方下载地址为： https://code.visualstudio.com/#alt-downloads
+- 编程神器 VSCode https://mp.weixin.qq.com/s/sU9Wh12JZqQyJfEBBafFAQ
