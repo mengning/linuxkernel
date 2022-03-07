@@ -1,1 +1,85 @@
-<mxfile><diagram id="LSYEFK7esQ-4A55gVga8" name="第 1 页">7Vtbl6I4EP41eZw5YADhUZSefdjZnXN69+xzWqJyBggLsdX99Vu5IKJ468bGHvFBoUgqlbp9lRARHifrbznJFt9ZSGM0MMI1whM0GDjYhm9B2CgCtgeKMM+jUJHMivAc/Uc10dDUZRTSotaQMxbzKKsTpyxN6ZTXaCTP2arebMbi+qgZmdMDwvOUxIfUf6KQLxTVHQwr+m80mi/KkU3HU08SUjbWMykWJGSrHRIOEB7njHF1lazHNBa6K/Wi+j0deboVLKcpv6SD1vsriZd6blouviknS9NwJHQGd9OYFEU0Rdhf8CQGggmXBSc5L1ukLIVu/qEYWrKCLfOpZqydgIY1ZWs5v1GWUJ5voMGqUrGt1bbY0W5Jy2lMePRaNxHRlp5v2W1H+MEiEG5gaKccajbaJU3PqHNQkutOuxrd4+NYZxiBuuaUHzCCi51ZVyRpsGbj4QbjOTGoxc+E8wtjSbLz71L4k/+9YH+wPCFxRYKruf6VHYuMpDXzlw1nLOVfChmJI2hgGl8N+GT8kJXpWc4X0xNmUTxhGopt60MV7xpiRpIo3qhB4BFJMtkVYwt+Idijlzw6oIu28ntfSvOolGeEBHJW0faCj9M13w+3nP2kYxazvIq3WRTHeySQf56KmIUQpED3X2nOI5jWSD9IojAUw/irRcTpc0ZkXK4gYQMtZ8s0pMLPjFPhLHjS9cnoLcOiHhUDQ9/vBLfXENwD43gc1yLnRJjY53McpOFMzp5sMhmYoOeflE8XWgHKzhNHhJZ4TvPgFXRRaJtImpTQ9pE9aTZIToELeZFDGlLFnPCd+4zmEcxN2Eob7UdF8YuUZH8xlTXUoC0YxbXrqWp4aBSrwShWC0YZXgU8WoU7YXB09iq93iPCOG0hzDmoag9hvPYRRuTNy9J+tn4rTr0xs58ReUam9bFQMESjCXI9ceGPkP/UwCNwRAMXLmzkQ3t7J+8rxqdRAvp7GLkTFFjInyBvLAfDyJfDw7f3dIbj50fBOho14dUlmeHyvLgfYPgwLw5vlBfLJU5DyF1cMOGvGD5N4SPKskJ4IqQMN5C+Na47UN02v2o1YlrdlSOm2WDhvh6RT53uChKzaSl8R1i3palMnL4UWQUvvieCemQh1xKoIKLbuRI5jiTlHlBacWy7O0QZuLdFFMc4vgz/VfFjCwQd4EdjUd7jh1SN1R1+4OOF2zt341rFlMAVGOGbuvaDVUtrCHLJaqZHkLe6Nu4OQXBTxdoygvRrEmx0hym4qfjtMUWppkNMudkbnlusU963TSbBxwM48pBrCtg5gUunMeeYHOMtchxM4ByMvXdqrlvCKTT7hPKPAuQFn1Z+8ChDuhb4j4VGbjt1zRXlzl1VEtjssJKwbltJDFUlAeHmTR64knA7rCT6t63HzGIZHVYSTvuVxE12N9+GIH/f0TJ0X7Y0Wl8kxhXv+0SKk3gHFFgy+eeO2vT7uG1hp9chdjYdmWgRO90H3Me1OjyWhJv25XuklGbp8GASfuwzL5M/nxWDUzn5Biu8jzrQU3t7mpCpmG6PnR+BnVaHp2pKHrfCTs98OOi0OzxCY/VHaI6apcMjNFbTW4THgc7fo3S5Rmcg8tIdV38sNi1hMQhtvF08vnp5268r7x8b7Y87HwS31d/L1JHw6j96OPgf</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="LSYEFK7esQ-4A55gVga8" name="第 1 页">
+        <mxGraphModel dx="671" dy="293" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="endArrow=classic;html=1;startArrow=none;" parent="1" source="5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="70" y="190" as="sourcePoint"/>
+                        <mxPoint x="640" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.0000pt&quot;&gt;1946-1950&lt;/span&gt;&lt;span style=&quot;font-size: 10.0000pt&quot;&gt;s&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0000pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="200" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="170" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=none;html=1;" parent="1" target="5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="60" y="190" as="sourcePoint"/>
+                        <mxPoint x="670" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;手工&lt;/font&gt;&lt;/span&gt;操作系统&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0000pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="130" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;1950s后期&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="200" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="165" y="170" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;&amp;nbsp;批处理操作系统&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0000pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="130" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;1960s&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="200" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="245" y="170" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;脱机批处理操作系统&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0000pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="130" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;1960s后期&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="200" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="325" y="170" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font face=&quot;等线&quot;&gt;多道批处理&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;等线&quot;&gt;分时&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;等线&quot;&gt;实时&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;等线&quot;&gt;通用操作系统&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="130" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;1970s初期&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="200" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="405" y="170" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;&lt;font face=&quot;Calibri&quot;&gt;U&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;nix&lt;/span&gt;&lt;span&gt;操作系统出现&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0000pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="130" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;1980s&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="200" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="485" y="170" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;DOS &lt;/span&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&amp;nbsp;macOS&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0000pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="130" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;span style=&quot;font-size: 13.3333px&quot;&gt;1991&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="200" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="565" y="170" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Linux&lt;font face=&quot;等线&quot;&gt;开源&lt;/font&gt;&lt;/span&gt;&lt;span&gt;操作系统出现&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0000pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="130" width="70" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
