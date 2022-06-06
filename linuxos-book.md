@@ -9,5 +9,6 @@
 * Visual Studio Code官方下载地址https://code.visualstudio.com/#alt-downloads
 * 编程神器 VSCode一文参加《代码中的软件工程》 https://gitee.com/mengning997/se
 * Evolution of the x86 context switch in Linux https://www.maizure.org/projects/evolution_x86_context_switch_linux/
+* 使用KVM API在虚拟机中执行一段简单的二进制代码，参考代码见https://lwn.net/Articles/658512/
 
 
