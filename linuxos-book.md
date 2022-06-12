@@ -11,5 +11,6 @@
 * Evolution of the x86 context switch in Linux https://www.maizure.org/projects/evolution_x86_context_switch_linux/
 * 使用KVM API在虚拟机中执行一段简单的二进制代码，参考代码见https://lwn.net/Articles/658512/
 * OCI 镜像规范 https://github.com/opencontainers/image-spec
+* webp_server_go项目中的 Dockerfile 范例：https://github.com/webp-sh/webp_server_go/blob/master/Dockerfile
 
 
