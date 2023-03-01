@@ -101,6 +101,9 @@
 - https://www.shiyanlou.com/courses/195
 - [https://github.com/torvalds/linux/tree/v5.4](https://gitee.com/mirrors/linux/tree/v5.4/)
 - [Linux kernel v3.18](https://github.com/torvalds/linux/tree/b2776bf7149bddd1f4161f14f79520f17fc1d71d)
+- https://github.com/torvalds/linux
+- https://gitee.com/openeuler
+- https://gitee.com/openharmony
 
 ## Contact us
 <img src="https://user-images.githubusercontent.com/609053/81026703-8c25df00-8ead-11ea-8254-29830c3e1146.png" alt="微信公众号互动二维码" width="100" align="bottom" />
