@@ -1,0 +1,10 @@
+#!/bin/sh
+mount -t proc none /proc 
+mount -t sysfs none /sys
+echo "               --------------------               "
+echo "                                                  "
+echo "               Wellcome MengningOS!               " 
+echo "                                                  "
+echo "               --------------------               "
+cd home
+/bin/ash

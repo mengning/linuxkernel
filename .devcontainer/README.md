@@ -106,12 +106,12 @@ docker commit container_id ubuntu20.04-linuxkernel
 
 ## 上传开发环境
 
-将构建好的容器镜像上传到仓库中，供开发者使用。这里的例子仓库是开发者自己的 DokcerHub，`superide`是 DokcerHub 账号名称
+将构建好的容器镜像上传到镜像仓库中，供其他开发者使用。镜像仓库默认是Docker官方的DockerHub，这里使用mengning.net镜像仓库，`mengning`是镜像仓库的账号名称。
 
 ```shell
-docker login # SuperIDE官方账号superide，密码需私下授权使用
-docker tag ubuntu20.04-linuxkernel superide/ubuntu20.04-linuxkernel:v1.0 # 注意升级tag版本
-docker push superide/ubuntu20.04-linuxkernel:v1.0
-docker tag ubuntu20.04-linuxkernel superide/ubuntu20.04-linuxkernel
-docker push superide/ubuntu20.04-linuxkernel # 更新latest
+docker login mengning.net # 这里镜像仓库的账号和密码
+docker tag ubuntu20.04-linuxkernel mengning/ubuntu20.04-linuxkernel:v1.0 # 注意升级tag版本
+docker push mengning/ubuntu20.04-linuxkernel:v1.0
+docker tag ubuntu20.04-linuxkernel mengning/ubuntu20.04-linuxkernel
+docker push mengning/ubuntu20.04-linuxkernel # 更新latest
 ```

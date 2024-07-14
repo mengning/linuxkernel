@@ -1,0 +1,8 @@
+linux-5.4.34
+linux-5.4.34*
+alpine-minirootfs*
+wget-log
+rootfs.cpio.gz
+rootfs.img
+compile_commands.json
+rootfs

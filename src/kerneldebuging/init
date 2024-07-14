@@ -1,8 +1,0 @@
-#!/bin/sh
-mount -t proc none /proc
-mount -t sysfs none /sys
-
-echo "Wellcome MengningOS!"
-echo "--------------------"
-cd home
-/bin/sh
