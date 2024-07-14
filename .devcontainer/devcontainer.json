@@ -2,6 +2,8 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/alpine
 {
 	"name": "ubuntu20.04-linuxkernel",
+	// Base Development Container Images https://mcr.microsoft.com/en-us/product/devcontainers/base/about
+	// "image": "mcr.microsoft.com/devcontainers/base:dev-ubuntu-20.04",
 	"build": {
 		"dockerfile": "Dockerfile"
 	}
