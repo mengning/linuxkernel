@@ -23,7 +23,7 @@
 
 - 3.1 Linux内核源代码
 - 3.2 搭建 Linux 内核调试环境
-   * 自动化的Linux内核调试环境搭建https://gitee.com/mengning997/linuxkerneldebug
+   * 自动化的Linux内核调试环境搭建https://gitee.com/mengning997/linuxkernel/tree/master/kerneldebuging
 - 3.3 跟踪 Linux 内核的启动过程
 
 
