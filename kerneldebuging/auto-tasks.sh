@@ -7,11 +7,11 @@
 # 
 
 # 更改软件源为阿里云的源
-sed -i 's/archive.ubuntu.com/mirrors.aliyun.com/g' /etc/apt/sources.list
-sed -i 's/security.ubuntu.com/mirrors.aliyun.com/g' /etc/apt/sources.list
-# 更新软件源列表并下载开发工具
-apt-get update && apt list --upgradable\
-    && apt-get install -y global build-essential qemu qemu-system-x86 libncurses5-dev bison flex libssl-dev libelf-dev git wget bc cpio python gdb
+# sed -i 's/archive.ubuntu.com/mirrors.aliyun.com/g' /etc/apt/sources.list
+# sed -i 's/security.ubuntu.com/mirrors.aliyun.com/g' /etc/apt/sources.list
+# # 更新软件源列表并下载开发工具
+# apt-get update && apt list --upgradable\
+#     && apt-get install -y global build-essential qemu qemu-system-x86 libncurses5-dev bison flex libssl-dev libelf-dev git wget bc cpio python gdb
 
 LINUX_VERSION=linux-5.4.34
 BUSYBOX_VERSION=busybox-1.36.1
@@ -69,8 +69,8 @@ fi
 # make rootfs
 cp -a init ./rootfs 
 (cd rootfs && chmod +x init &&   \
-    cp -a /dev/{null,tty} dev/ && \
-         find . -print0 | cpio --null -ov --format=newc | gzip -9 > ../linuxkerneldebug/rootfs.img)
+    # cp -a /dev/{null,tty} dev/ && \
+         find . -print0 | cpio --null -ov --format=newc | gzip -9 > ../rootfs.img)
 
 # 生成 compile_commands.json
 (cd linux-5.4.34/ && python scripts/gen_compile_commands.py)

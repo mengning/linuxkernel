@@ -19,7 +19,7 @@
     {
       "label": "run MengningOS",
       "type": "shell",
-      "command": "qemu-system-x86_64 -kernel linux-5.4.34/arch/x86/boot/bzImage -initrd rootfs.img  -nographic -append \"console=ttyS0\"",
+      "command": "qemu-system-x86_64 -kernel linux-5.4.34/arch/x86/boot/bzImage -initrd kerneldebuging/rootfs.img  -nographic -append \"console=ttyS0\"",
       "presentation": {
         "echo": true,
         "clear": true,
@@ -47,7 +47,7 @@
     {
       "label": "run MengningOS as Debug mode",
       "type": "shell",
-      "command": "qemu-system-x86_64 -kernel linux-5.4.34/arch/x86/boot/bzImage -initrd rootfs.img -S -s -nographic -append \"console=ttyS0\"",
+      "command": "qemu-system-x86_64 -kernel linux-5.4.34/arch/x86/boot/bzImage -initrd kerneldebuging/rootfs.img -S -s -nographic -append \"console=ttyS0\"",
       "presentation": {
         "echo": true,
         "clear": true,
