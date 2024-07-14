@@ -33,7 +33,7 @@
 3. 克隆本仓库，在VS Code中打开项目，然后点击左下角远程开发，选择在容器中重新打开；最后在Terminal中执行：
 
     ```
-    make
+    sudo make
     ...
     [    2.650661] Write protecting the kernel read-only data: 20480k
     [    2.653933] Freeing unused kernel image memory: 2004K
