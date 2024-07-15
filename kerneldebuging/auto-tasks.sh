@@ -70,7 +70,7 @@ fi
 cp -a init ./rootfs 
 (cd rootfs && chmod +x init &&   \
     # cp -a /dev/{null,tty} dev/ && \
-         find . -print0 | cpio --null -ov --format=newc | gzip -9 > ../rootfs.img)
+         find . -print0 | cpio --null -ov --format=newc | gzip -9 > ../kerneldebuging/rootfs.img)
 
 # 生成 compile_commands.json
 (cd linux-5.4.34/ && python scripts/gen_compile_commands.py)
