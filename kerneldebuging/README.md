@@ -33,6 +33,9 @@
 3. 克隆本仓库，在VS Code中打开项目，然后点击左下角远程开发，选择在容器中重新打开；最后在Terminal中执行：
 
     ```
+    cd ~
+    git clone https://gitee.com/mengning997/linuxkernel.git # 注意：如果要编译Linux内核一定要在Linux文件系统环境下，克隆到Windows文件系统下编译过程中会有问题！
+    cd linuxkernel/kerneldebuging
     sudo apt-get update
     sudo apt-get install -y global build-essential qemu qemu-system-x86 libncurses5-dev bison flex libssl-dev libelf-dev git wget bc cpio python gdb
     make
