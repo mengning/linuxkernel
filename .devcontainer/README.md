@@ -10,7 +10,7 @@
 2.  安装Git， https://git-scm.com/download
 3.  安装VS Code, https://code.visualstudio.com/
 
-   * 3.1. 安装Dev Container插件
+   * 3.1. 安装Dev Containers插件
 
 4. 在VS Code中Clone一个项目的git仓库
 5. 在VS Code中点击左下角远程开发，选择在容器中重新打开；或者选择在容器中打开文件夹。
@@ -106,12 +106,14 @@ docker commit container_id ubuntu20.04-linuxkernel
 
 ## 上传开发环境
 
-将构建好的容器镜像上传到镜像仓库中，供其他开发者使用。镜像仓库默认是Docker官方的DockerHub，这里使用mengning.net镜像仓库，`mengning`是镜像仓库的账号名称。
+将构建好的容器镜像上传到镜像仓库中，供其他开发者使用。镜像仓库默认是Docker官方的DockerHub，这里使用devstar.cn镜像仓库，`mengning`是镜像仓库的账号名称。
 
 ```shell
-docker login mengning.net # 这里镜像仓库的账号和密码
+docker login devstar.cn # 这里镜像仓库的账号和密码
 docker tag ubuntu20.04-linuxkernel mengning/ubuntu20.04-linuxkernel:v1.0 # 注意升级tag版本
 docker push mengning/ubuntu20.04-linuxkernel:v1.0
 docker tag ubuntu20.04-linuxkernel mengning/ubuntu20.04-linuxkernel
 docker push mengning/ubuntu20.04-linuxkernel # 更新latest
 ```
+
+这样我们就可以在.devcontainer/devcontainer.json或Dockerfile中使用镜像名称devstar.cn/mengning/ubuntu20.04-linuxkernel
